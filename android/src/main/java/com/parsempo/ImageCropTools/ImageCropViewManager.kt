@@ -90,6 +90,7 @@ class ImageCropViewManager: SimpleViewManager<CropImageView>() {
         url?.let {
             view.setImageUriAsync(Uri.parse(it))
         }
+        view.cropRect = Rect(0,0,10000,10000)
     }
 
     @ReactProp(name = KEEP_ASPECT_RATIO_PROP)
