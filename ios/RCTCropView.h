@@ -2,7 +2,7 @@
 //  RCTCropView.h
 //  react-native-image-crop-tools
 //
-//  Created by skqksh on 06/01/2020.
+//  Created by hiblocks on 06/01/2020.
 //
 
 #import <React/RCTView.h>

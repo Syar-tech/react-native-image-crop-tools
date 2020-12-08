@@ -1,5 +1,5 @@
 {
-  "name": "@skqksh/react-native-image-crop-tools",
+  "name": "@hiblocks/react-native-image-crop-tools",
   "title": "React Native Image Crop Tools",
   "version": "1.0.3",
   "description": "Native image crop tools with embeddable UI and on the fly aspect ratio switchin",
@@ -18,8 +18,8 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skqksh/react-native-image-crop-tools.git",
-    "baseUrl": "https://github.com/skqksh/react-native-image-crop-tools"
+    "url": "git+https://github.com/hiblocks/react-native-image-crop-tools.git",
+    "baseUrl": "https://github.com/hiblocks/react-native-image-crop-tools"
   },
   "keywords": [
     "react-native",
@@ -32,8 +32,8 @@
     "typescript"
   ],
   "author": {
-    "name": "skqksh",
-    "email": "skqksh@gmail.com"
+    "name": "hiblocks",
+    "email": "hiblocks.co@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",

@@ -9,11 +9,11 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   react-native-image-crop-tools
                    DESC
-  s.homepage     = "https://github.com/skqksh/react-native-image-crop-tools"
+  s.homepage     = "https://github.com/hiblocks/react-native-image-crop-tools"
   s.license      = "MIT"
-  s.authors      = { "skqksh" => "skqksh@gmail.com" }
+  s.authors      = { "hiblocks" => "hiblocks.co@gmail.com" }
   s.platforms    = { :ios => "9.0" }
-  s.source       = { :git => "https://github.com/skqksh/react-native-image-crop-tools.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/hiblocks/react-native-image-crop-tools.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m}"
   s.requires_arc = true

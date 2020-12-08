@@ -2,7 +2,7 @@
 //  CropViewManager.m
 //  react-native-image-crop-tools
 //
-//  Created by skqksh on 31/12/2019.
+//  Created by hiblocks on 31/12/2019.
 //
 
 #import "CropViewManager.h"
