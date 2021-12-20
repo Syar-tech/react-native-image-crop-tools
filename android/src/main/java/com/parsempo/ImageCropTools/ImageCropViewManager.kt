@@ -1,6 +1,7 @@
 package com.parsempo.ImageCropTools
 
 import android.graphics.Bitmap
+import android.graphics.Rect
 import android.net.Uri
 import com.facebook.react.bridge.Arguments
 import com.facebook.react.bridge.ReadableArray
