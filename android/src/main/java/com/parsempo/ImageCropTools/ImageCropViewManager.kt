@@ -32,7 +32,7 @@ class ImageCropViewManager: SimpleViewManager<CropImageView>() {
         view.setOnCropImageCompleteListener { _, result ->
             if (result.isSuccessful) {
                 val map = Arguments.createMap()
-                map.putString("uri", result.uri.toString())
+                map.putString("uri", result.uriContent.toString())
                 map.putInt("width", result.cropRect.width())
                 map.putInt("height", result.cropRect.height())
                 reactContext.getJSModule(RCTEventEmitter::class.java)?.receiveEvent(
